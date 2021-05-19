@@ -5,7 +5,7 @@ This shopping Website is a simple Node.js web application for static content tha
 but everyone is welcome to use it. The implementation strives to be simple and free of unnecessary dependencies.
 
 
---------------URL------> https://buzzfeed-blogging-website.herokuapp.com/ ---------URL------>
+--------------URL------> https://holy-grail-ekart.herokuapp.com/ ---------URL------>
 
 Goals/Issues
     1) User role to be configured
