@@ -5,10 +5,10 @@ This shopping Website is a simple Node.js web application for static content tha
 but everyone is welcome to use it. The implementation strives to be simple and free of unnecessary dependencies.
 
 
---------------URL------> https://holy-grail-ekart.herokuapp.com/ ---------URL------>
+---------Public-----URL------> https://holy-grail-ekart.herokuapp.com/ ---------URL------>
 
 Goals/Issues
-    1) User role to be configured
+    1) User role module mapping & restriction to be configured
     2) Product calculation issue to be fixed at Cart screen 
     3) Payment gateway to be added
     
