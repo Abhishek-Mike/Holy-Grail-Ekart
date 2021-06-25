@@ -37,7 +37,7 @@ Structure
     Install Node.js version 10+
     Fork and clone repository
     Add static content to /seed.js
-    Add post and content under /blogs/new
+    Add post and content under products/new
     npm install
     npm start
     Open http://localhost:3000/ and verify
