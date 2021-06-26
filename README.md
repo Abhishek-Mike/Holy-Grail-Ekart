@@ -15,7 +15,7 @@ Features
     An easy way to create a simple, secure website with a blog
     Support for text-based and photo-based blog formats
     Easy customization of site layout and formatting
-    High resolution (2x) support for photo blog images
+    High resolution support for photo blog images
     Support for Windows and Linux hosting with Node.js
     Simple post format that separates content and metadata
     Ability to create posts that never show up in the timeline
