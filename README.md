@@ -3,7 +3,7 @@
 This shopping Website is a simple Node.js web application for static content that includes a blog. It was created as the basis for my own website,
 but everyone is welcome to use it. The implementation strives to be simple and free of unnecessary dependencies.
 
----------Public-----URL------> https://holy-grail-ekart.herokuapp.com/ ---------URL------>
+---------Public-URL------> https://holy-grail-ekart.herokuapp.com/ ---------URL------>
 
 Goals/Issues
 User role module mapping & restriction to be configured
