@@ -37,8 +37,7 @@ mongoose.connect(process.env.DB_URL,
         console.log(err);
     });
 
-
-// seedDB();   //seeding static products
+//seedDB();   //seeding static products
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, '/views'));
